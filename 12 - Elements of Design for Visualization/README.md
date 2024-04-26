@@ -1,7 +1,8 @@
-01 Introducing some principles of 2D design
-02 Understanding color theory
+1. [Introducing some principles of 2D design](#1)
+2. [Understanding color theory](#2)
 
 ---
 
-01 Introducing some principles of 2D design
-02 Understanding color theory
+### 1. Introducing some principles of 2D design<a id="1"></a>
+
+### 2. Understanding color theory<a id="2"></a>
