@@ -210,4 +210,47 @@ println(c);
 
 ### 6. Creating strings<a id="6"></a>
 
+1. Drag dummy.txt file on processing ide, this will create data-folder and place dummy.txt inside it for processing
+
+```js
+// Ex04_06
+
+// Manually entering text
+String deerHunterOntology = "This is this. It's not something else. This is this.";
+//println(deerHunterOntology);
+
+size(600, 200);
+smooth();
+background(#EEEEEE);
+fill(#000000);
+text(deerHunterOntology, 100, 140);
+
+// how to load text file
+String poemLines[] = loadStrings("Szymborska.txt");
+println(poemLines[0]);
+println(poemLines[1]);
+```
+
+- processing ref. loadStrings() [click me](https://processing.org/reference/loadStrings_.html)
+
 ### 7. Modifying strings<a id="7"></a>
+
+<img src="assets/images/7.png" width="700">
+
+```js
+// Ex04_07
+
+// trim()
+String quote = "     To be or not to be.     ";
+quote = trim(quote);
+println(quote);
+
+// nf()
+int a = 798;
+println(a);
+String A = nf(a, 10);
+println(A);
+```
+
+- processing ref. nf() [click me](https://processing.org/reference/nf_.html)
+- processing ref. trim() [click me](https://processing.org/reference/trim_.html)
