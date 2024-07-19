@@ -6,7 +6,7 @@
 
 ---
 
-### 1. Specifying fonts<a id="1"></a>
+### 1 App: Specifying fonts<a id="1"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -35,7 +35,7 @@ text(wordText, 50, height/2);
 
 - ellipse() function reference documentation [click me]()
 
-### 2. Using images<a id="2"></a>
+### 2 App: Using images<a id="2"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -57,7 +57,7 @@ filter(GRAY);
 
 - ellipse() function reference documentation [click me]()
 
-### 3. Playing a video loop<a id="3"></a>
+### 3 App: Playing a video loop<a id="3"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -87,7 +87,7 @@ void draw() {
 
 - ellipse() function reference documentation [click me]()
 
-### 4. Exporting video<a id="4"></a>
+### 4 App: Exporting video<a id="4"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -109,7 +109,7 @@ void draw() {
   ellipse(pmouseX, pmouseY, 10, 10);
   stroke(120);
   line(mouseX, mouseY, pmouseX, pmouseY);
-  saveFrame("frames/####.png");          // This is the only new line
+  saveFrame("frames/####. App:ng");          // This is the only new line
 }
 
 void mousePressed() {
@@ -119,7 +119,7 @@ void mousePressed() {
 
 - ellipse() function reference documentation [click me]()
 
-### 5. Adding sound<a id="5"></a>
+### 5 App: Adding sound<a id="5"></a>
 
 <img src="assets/images/1.png" width="700">
 

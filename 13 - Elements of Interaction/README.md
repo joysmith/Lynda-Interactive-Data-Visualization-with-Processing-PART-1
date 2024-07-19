@@ -5,7 +5,7 @@
 
 ---
 
-### 1. Interacting with zooming, rotating, and sliding<a id="1"></a>
+### 1 App: Interacting with zooming, rotating, and sliding<a id="1"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -73,7 +73,7 @@ void mouseDragged() {
 
 - ellipse() function reference documentation [click me]()
 
-### 2. Implementing slicing<a id="2"></a>
+### 2 App: Implementing slicing<a id="2"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -83,7 +83,7 @@ void mouseDragged() {
 
 - ellipse() function reference documentation [click me]()
 
-### 3. Using rollovers<a id="3"></a>
+### 3 App: Using rollovers<a id="3"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -93,7 +93,7 @@ void mouseDragged() {
 
 - ellipse() function reference documentation [click me]()
 
-### 4. Introducing the GUI libraries<a id="4"></a>
+### 4 App: Introducing the GUI libraries<a id="4"></a>
 
 <img src="assets/images/1.png" width="700">
 

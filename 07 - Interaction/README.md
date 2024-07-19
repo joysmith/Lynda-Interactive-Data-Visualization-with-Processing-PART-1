@@ -4,7 +4,7 @@
 
 ---
 
-### 1. Mouse tracking<a id="1"></a>
+### 1 App: Mouse tracking<a id="1"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -36,7 +36,7 @@ void mousePressed(){
 
 - mouseX, mouseY, pmouseX, pmouseY reference documentation [click me](https://processing.org/reference/mouseX.html)
 
-### 2. Hovering and clicking<a id="2"></a>
+### 2 App: Hovering and clicking<a id="2"></a>
 
 <img src="assets/images/2.png" width="700">
 
@@ -93,7 +93,7 @@ void draw(){
 
 - Algorithm
 
-### 3. Understanding keyboard interaction<a id="3"></a>
+### 3 App: Understanding keyboard interaction<a id="3"></a>
 
 <img src="assets/images/3.png" width="700">
 

@@ -7,7 +7,7 @@
 
 ---
 
-### 1 Building code blocks<a id="1"></a>
+### 1 App: Building code blocks<a id="1"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -49,7 +49,7 @@ void mousePressed(){
 - setup(){ ... } block reference documentation [click me](https://processing.org/reference/setup_.html)
 - draw(){ ... } block reference documentation [click me](https://processing.org/reference/draw_.html)
 
-### 2 Writing a while loop<a id="2"></a>
+### 2 App: Writing a while loop<a id="2"></a>
 
 <img src="assets/images/2.png" width="700">
 
@@ -83,7 +83,7 @@ void draw(){
 
 - while(){ ... } block reference documentation [click me](https://processing.org/reference/while.html)
 
-### 3 Using for loops<a id="3"></a>
+### 3 App: Using for loops<a id="3"></a>
 
 <img src="assets/images/3.png" width="700">
 
@@ -119,7 +119,7 @@ void draw(){
 
 - for(){ ... } block reference documentation [click me](https://processing.org/reference/for.html)
 
-### 4 Creating conditionals<a id="4"></a>
+### 4 App: Creating conditionals<a id="4"></a>
 
 <img src="assets/images/4.png" width="700">
 
@@ -203,7 +203,7 @@ void keyPressed(){
 - ternary block reference documentation [click me](https://processing.org/reference/conditional.html)
 - switch(){ ... } block reference documentation [click me](https://processing.org/reference/switch.html)
 
-### 5 Working with easing<a id="5"></a>
+### 5 App: Working with easing<a id="5"></a>
 
 <img src="assets/images/5.png" width="700">
 
@@ -276,7 +276,7 @@ void draw(){
 - cursor() function reference documentation [click me](https://processing.org/reference/cursor_.html)
 - Algorithm ease - cursor chaser
 
-### 6 Creating spirals<a id="6"></a>
+### 6 App: Creating spirals<a id="6"></a>
 
 <img src="assets/images/6.png" width="700">
 

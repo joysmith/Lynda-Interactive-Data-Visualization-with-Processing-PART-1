@@ -8,7 +8,7 @@
 
 ---
 
-### 1. Introduction to variables<a id="1"></a>
+### 1 App: Introduction to variables<a id="1"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -45,7 +45,7 @@ color cherryBlossomPink = #FFB7C5;
 background(cherryBlossomPink);
 ```
 
-### 2. Understanding variable scope<a id="2"></a>
+### 2 App: Understanding variable scope<a id="2"></a>
 
 <img src="assets/images/2.png" width="700">
 
@@ -75,7 +75,7 @@ void draw() {
 }
 ```
 
-### 3. Modifying variables<a id="3"></a>
+### 3 App: Modifying variables<a id="3"></a>
 
 <img src="assets/images/3.png" width="700">
 
@@ -122,7 +122,7 @@ void draw() {
 
 - processing ref. constrain() [click me](https://processing.org/reference/constrain_.html)
 
-### 4. Creating arrays<a id="4"></a>
+### 4 App: Creating arrays<a id="4"></a>
 
 <img src="assets/images/4.png" width="700">
 
@@ -166,7 +166,7 @@ for(int i = 0; i < n; i++) {
 
 - processing ref. line() [click me](https://processing.org/reference/line_.html)
 
-### 5. Modifying arrays<a id="5"></a>
+### 5 App: Modifying arrays<a id="5"></a>
 
 ```js
 // Ex04_05
@@ -208,7 +208,7 @@ println(c);
 - processing ref. splice() [click me](https://processing.org/reference/splice_.html)
 - processing ref. concat() [click me](https://processing.org/reference/concat_.html)
 
-### 6. Creating strings<a id="6"></a>
+### 6 App: Creating strings<a id="6"></a>
 
 1. Drag dummy.txt file on processing ide, this will create data-folder and place dummy.txt inside it for processing
 
@@ -233,7 +233,7 @@ println(poemLines[1]);
 
 - processing ref. loadStrings() [click me](https://processing.org/reference/loadStrings_.html)
 
-### 7. Modifying strings<a id="7"></a>
+### 7 App: Modifying strings<a id="7"></a>
 
 <img src="assets/images/7.png" width="700">
 

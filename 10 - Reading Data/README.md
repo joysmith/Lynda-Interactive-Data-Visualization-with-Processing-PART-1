@@ -5,7 +5,7 @@
 
 ---
 
-### 1. Using embedded data<a id="1"></a>
+### 1 App: Using embedded data<a id="1"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -33,7 +33,7 @@ for(int i = 0; i < fibonacci.length; i++){
 
 - ellipse() function reference documentation [click me]()
 
-### 2. Working with appended text data<a id="2"></a>
+### 2 App: Working with appended text data<a id="2"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -61,7 +61,7 @@ text(presidents[40], mouseX, mouseY);
 
 - ellipse() function reference documentation [click me]()
 
-### 3. Working with appended tabular data<a id="3"></a>
+### 3 App: Working with appended tabular data<a id="3"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -71,7 +71,7 @@ text(presidents[40], mouseX, mouseY);
 
 - ellipse() function reference documentation [click me]()
 
-### 4. Reading XML data<a id="4"></a>
+### 4 App: Reading XML data<a id="4"></a>
 
 <img src="assets/images/1.png" width="700">
 

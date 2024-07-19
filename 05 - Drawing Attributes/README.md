@@ -11,7 +11,7 @@
 
 ---
 
-### 1. Incorporating randomness<a id="1"></a>
+### 1 App: Incorporating randomness<a id="1"></a>
 
 <img src="assets/images/1.png" width="700">
 
@@ -41,7 +41,7 @@ void draw(){
 
 - random() function reference documentation [click me](https://processing.org/reference/random_.html)
 
-### 2. Using Perlin noise<a id="2"></a>
+### 2 App: Using Perlin noise<a id="2"></a>
 
 <img src="assets/images/2.png" width="700">
 
@@ -68,7 +68,7 @@ for(int i = 1; i < n; i++) {
 - Perlin noise was developed by movie industry, as a way of creating very realistic and organic texture
 - Algorithm to generate perlin noise.
 
-### 3. Shuffling with Java<a id="3"></a>
+### 3 App: Shuffling with Java<a id="3"></a>
 
 <img src="assets/images/3.png" width="700">
 
@@ -87,7 +87,7 @@ println(nums);
 
 - using java library to shuffle array element
 
-### 4. Specifying line attributes<a id="4"></a>
+### 4 App: Specifying line attributes<a id="4"></a>
 
 <img src="assets/images/4.png" width="700">
 
@@ -124,14 +124,14 @@ strokeJoin(ROUND);
 rect(100, 50, 100, 100);
 ```
 
-#### Shape attributes functions
+#### shape attributes functions
 
 - smooth() function reference documentation [click me](https://processing.org/reference/smooth_.html)
 - strokeWeight() function reference documentation [click me](https://processing.org/reference/strokeWeight_.html)
 - strokeCap() function reference documentation [click me](https://processing.org/reference/strokeCap_.html)
 - strokeJoin() function reference documentation [click me](https://processing.org/reference/strokeJoin_.html)
 
-### 5. Changing placement modes<a id="5"></a>
+### 5 App: Changing placement modes<a id="5"></a>
 
 <img src="assets/images/5.png" width="700">
 
@@ -162,7 +162,7 @@ ellipse(width / 2, height / 2, 50, 50);
 - ellipseMode() function reference documentation [click me](https://processing.org/reference/ellipseMode_.html)
 - rectMode() function reference documentation [click me](https://processing.org/reference/rectMode_.html)
 
-### 6. Understanding color attributes and functions<a id="6"></a>
+### 6 App: Understanding color attributes and functions<a id="6"></a>
 
 <img src="assets/images/6.png" width="700">
 
@@ -195,7 +195,7 @@ rect(x*4, height/2, 100, 100);
 
 - fill() function reference documentation [click me](https://processing.org/reference/fill_.html)
 
-### 7. Exploring color spaces<a id="7"></a>
+### 7 App: Exploring color spaces<a id="7"></a>
 
 <img src="assets/images/7.png" width="700">
 
@@ -230,7 +230,7 @@ rect(x*4, height/2, 100, 100);
 
 - colorMode() function reference documentation [click me](https://processing.org/reference/colorMode_.html)
 
-### 8. Using color palettes<a id="8"></a>
+### 8 App: Using color palettes<a id="8"></a>
 
 <img src="assets/images/8.png" width="700">
 
@@ -259,7 +259,7 @@ ellipse(480, height/2, 100, 100);
 - paletton: good for website; scroll down and click on example for previewing [click me](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 - Adobe: good for pallet generator [click me](https://color.adobe.com/)
 
-### 9. Transforming the grid<a id="9"></a>
+### 9 App: Transforming the grid<a id="9"></a>
 
 <img src="assets/images/9.png" width="700">
 
@@ -317,7 +317,7 @@ ellipse(0, 0, d, d);
 - scale() function reference documentation [click me](https://processing.org/reference/scale_.html)
 - rotate() function reference documentation [click me](https://processing.org/reference/rotate_.html)
 
-### 10 Exploring the attribute matrix<a id="10"></a>
+### 10 App: Exploring the attribute matrix<a id="10"></a>
 
 <img src="assets/images/10.png" width="700">
 
@@ -362,4 +362,4 @@ rect(width-s, height-s, s, s);
 
 note
 
-- pushMatrix, pushStyle use to save orientation so i dont need to set up it again and again
+- pushMatrix, pushStyle use to save orientation so i don't need to set up it again and again
