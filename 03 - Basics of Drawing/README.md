@@ -13,11 +13,11 @@
 
 ---
 
-### 1. Basic setup<a id="1"></a>
+### 1. App: Basic setup<a id="1"></a>
 
 - ellipse() function reference documentation [click me](https://processing.org/reference/ellipse_.html)
 
-### 2. Drawing points<a id="2"></a>
+### 2. App: Drawing points<a id="2"></a>
 
 <img src="assets/images/2.png" width="700">
 
@@ -45,7 +45,7 @@ point(500, 100);
 
 - point() function reference documentation [click me](https://processing.org/reference/point_.html)
 
-### 3. Drawing lines<a id="3"></a>
+### 3. App: Drawing lines<a id="3"></a>
 
 <img src="assets/images/3.png" width="700">
 
@@ -77,7 +77,7 @@ line(500, 50, 500, 150);
 
 - line() function reference documentation [click me](https://processing.org/reference/line_.html)
 
-### 4. Drawing ellipses and circles<a id="4"></a>
+### 4. App: Drawing ellipses and circles<a id="4"></a>
 
 <img src="assets/images/4.png" width="700">
 
@@ -109,7 +109,7 @@ ellipse(500, 100, 150, 150);
 
 - ellipse() function reference documentation [click me](https://processing.org/reference/ellipse_.html)
 
-### 5. Drawing arcs<a id="5"></a>
+### 5. App: Drawing arcs<a id="5"></a>
 
 <img src="assets/images/5.png" width="700">
 
@@ -136,7 +136,7 @@ arc(500, 100, 75, 75, 0, TWO_PI);
 
 - arc() function reference documentation [click me](https://processing.org/reference/arc_.html)
 
-### 6. Drawing rectangles and squares<a id="6"></a>
+### 6. App: Drawing rectangles and squares<a id="6"></a>
 
 <img src="assets/images/6.png" width="700">
 
@@ -165,7 +165,7 @@ rect(460, 60, 540, 140);
 
 - rect() function reference documentation [click me](<https://processing.org/reference/rect_.html#:~:text=A%20rectangle%20is%20a%20four,with%20the%20rectMode()%20function.>)
 
-### 7. Drawing quadrangles<a id="7"></a>
+### 7. App: Drawing quadrangles<a id="7"></a>
 
 <img src="assets/images/7.png" width="700">
 
@@ -191,7 +191,7 @@ quad(450, 50, 500, 100, 450, 150, 400, 100);
 
 - quad() function reference documentation [click me](https://processing.org/reference/quad_.html)
 
-### 8. Drawing triangles<a id="8"></a>
+### 8. App: Drawing triangles<a id="8"></a>
 
 <img src="assets/images/8.png" width="700">
 
@@ -217,7 +217,7 @@ triangle(450, 50, 500, 150, 400, 150);
 
 - triangle() function reference documentation [click me](https://processing.org/reference/triangle_.html#:~:text=A%20triangle%20is%20a%20plane,arguments%20specify%20the%20third%20point.)
 
-### 9. Drawing polygons<a id="9"></a>
+### 9. App: Drawing polygons<a id="9"></a>
 
 <img src="assets/images/9.png" width="700">
 
@@ -252,7 +252,7 @@ endShape(CLOSE);
 
 - arc() function reference documentation [click me](https://processing.org/reference/arc_.html)
 
-### 10. Drawing simple curves<a id="10"></a>
+### 10 App:. Drawing simple curves<a id="10"></a>
 
 <img src="assets/images/10.png" width="700">
 
@@ -280,7 +280,7 @@ curve(400, 300, 400, 100, 500, 100, 500, 300);
 
 - arc() function reference documentation [click me](https://processing.org/reference/arc_.html)
 
-### 11. Drawing complex curves<a id="11"></a>
+### 11 App:. Drawing complex curves<a id="11"></a>
 
 <img src="assets/images/11.png" width="700">
 
@@ -349,7 +349,7 @@ point(500, 100);
 
 - arc() function reference documentation [click me](https://processing.org/reference/arc_.html)
 
-### 12. Drawing Bézier curves<a id="12"></a>
+### 12 App:. Drawing Bézier curves<a id="12"></a>
 
 <img src="assets/images/12.png" width="700">
 
