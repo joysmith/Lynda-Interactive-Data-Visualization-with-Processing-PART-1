@@ -356,9 +356,9 @@ popStyle();
 rect(width-s, height-s, s, s);
 ```
 
-- pushMatrix() function reference documentation [https://processing.org/reference/pushMatrix\_.html]()
-- pushStyle() function reference documentation [https://processing.org/reference/pushStyle\_.html]()
-- popMatrix() function reference documentation [https://processing.org/reference/popMatrix\_.html]()
+- pushMatrix() function reference documentation [click me](https://processing.org/reference/pushMatrix_.html)
+- pushStyle() function reference documentation [click me](https://processing.org/reference/pushStyle_.html)
+- popMatrix() function reference documentation [click me](https://processing.org/reference/popMatrix_.html)
 
 note
 
