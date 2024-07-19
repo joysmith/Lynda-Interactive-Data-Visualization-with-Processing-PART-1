@@ -42,11 +42,16 @@ void mousePressed(){
 }
 ```
 
-- random() function reference documentation [click me]()
+#### Processing block aka function/method
+
+- keypress(){ ... } block reference documentation [click me](https://processing.org/reference/keyPressed_.html)
+- mousePressed(){ ... } block reference documentation [click me](https://processing.org/examples/mousepress.html)
+- setup(){ ... } block reference documentation [click me](https://processing.org/reference/setup_.html)
+- draw(){ ... } block reference documentation [click me](https://processing.org/reference/draw_.html)
 
 ### 2 Writing a while loop<a id="2"></a>
 
-<img src="assets/images/1.png" width="700">
+<img src="assets/images/2.png" width="700">
 
 ```js
 // Ex06_02
@@ -76,11 +81,11 @@ void draw(){
 }
 ```
 
-- random() function reference documentation [click me]()
+- while(){ ... } block reference documentation [click me](https://processing.org/reference/while.html)
 
 ### 3 Using for loops<a id="3"></a>
 
-<img src="assets/images/1.png" width="700">
+<img src="assets/images/3.png" width="700">
 
 ```js
 // Ex06_03
@@ -112,11 +117,11 @@ void draw(){
 }
 ```
 
-- random() function reference documentation [click me]()
+- for(){ ... } block reference documentation [click me](https://processing.org/reference/for.html)
 
 ### 4 Creating conditionals<a id="4"></a>
 
-<img src="assets/images/1.png" width="700">
+<img src="assets/images/4.png" width="700">
 
 ```js
 // Ex06_04
@@ -152,12 +157,14 @@ void draw(){
   strokeWeight(b);
   ellipse(x, y, d, d);
 
+// if-else block
   if(mouseX > width/2){
     d += .5;
   } else {
     d -= .5;
   }
 
+// ternary
   b = (mouseY > (height/2)) ? b + .1 : b - .1;
   b = constrain(b, 0, 50);
 }
@@ -166,35 +173,39 @@ void keyPressed(){
   p1 = int(random(1, 5));
   p2 = int(random(1, 5));
 
+// switch block
   int choice = key;
   switch(choice){
-    case 49:
+    case 49: // 1 key ASCII code
       palette = rainbow;
       break;
-    case 50:
+    case 50: // 2 key ASCII code
       palette = chemistry;
       break;
-    case 51:
+    case 51: // 3 key ASCII code
       palette = kitties;
       break;
-    case 52:
+    case 52: // 4 key ASCII code
       palette = beach;
       break;
-    case 53:
+    case 53: // 5 key ASCII code
       palette = cottage;
       break;
-    case 54:
+    case 54: // 6 key ASCII code
       palette = minard;
       break;
   }
 }
 ```
 
-- random() function reference documentation [click me]()
+- if(){ ... } block reference documentation [click me](https://processing.org/reference/if.html)
+- if(){ ... }else{ ...} block reference documentation [click me](https://processing.org/reference/else.html)
+- ternary block reference documentation [click me](https://processing.org/reference/conditional.html)
+- switch(){ ... } block reference documentation [click me](https://processing.org/reference/switch.html)
 
 ### 5 Working with easing<a id="5"></a>
 
-<img src="assets/images/1.png" width="700">
+<img src="assets/images/5.png" width="700">
 
 ```js
 // Ex06_05
@@ -262,11 +273,12 @@ void draw(){
 }
 ```
 
-- random() function reference documentation [click me]()
+- cursor() function reference documentation [click me](https://processing.org/reference/cursor_.html)
+- Algorithm ease - cursor chaser
 
 ### 6 Creating spirals<a id="6"></a>
 
-<img src="assets/images/1.png" width="700">
+<img src="assets/images/6.png" width="700">
 
 ```js
 // Ex06_06
@@ -326,4 +338,4 @@ for(float angle = 0; angle < 8*PI; angle += .05){
 }
 ```
 
-- random() function reference documentation [click me]()
+- Algorithm Spiral
