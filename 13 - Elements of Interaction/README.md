@@ -95,10 +95,15 @@ void mouseDragged() {
 
 ### 4 App: Introducing the GUI libraries<a id="4"></a>
 
-<img src="assets/images/1.png" width="700">
+#### How to install GUI libraries
 
-```js
+- Open processing IDE in toolbar--> sketch--> import library--> Category:GUI
+- Controlp5 by Andreas Schlegel ✅
+- guicomponent by peter Lager ✅
+- guide by Florian jenett ✅
+- close processing IDE and restart
 
-```
+#### Open GUI App example
 
-- ellipse() function reference documentation [click me]()
+- Go to File--> Example--> Contributed libraries--> ControlP5 --> Controllers: ControlP5checkBox
+- explore other example
